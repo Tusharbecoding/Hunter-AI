@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+google-genai
+python-dotenv
+requests
+beautifulsoup4
+lxml
